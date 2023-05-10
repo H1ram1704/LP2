@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+form{
+    background-color: brown;
+    color: darkgoldenrod;
+}
+input{
+    background-color: black;
+    color:darkgoldenrod;
+    border-radius: 20px;
+}
